@@ -43,6 +43,6 @@ Here are some ideas to get you started:
   
   
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jeivison/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
