@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Jeiv-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Jeiv-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Jeiv-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Jeiv-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/LfCwcyW8iagAAAAd/anime-attack-on-titan.gif">
+  <img align="right" alt="Jeiv-pic" height="150" style="border-radius:50px;" src="https://switch-brasil.com/wp-content/uploads/2018/02/Levi_the_cleaner.jpg">
 </div>
   
   ## Detailed information
