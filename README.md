@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align="center">
+<div align="">
   <a href="https://github.com/jeivison">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeivison&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeivison&layout=compact&langs_count=7&theme=merko"/>
