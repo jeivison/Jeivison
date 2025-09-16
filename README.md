@@ -22,8 +22,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Jeiv-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Jeiv-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Jeiv-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Jeiv-pic" height="150" style="border-radius:50px;" src="https://switch-brasil.com/wp-content/uploads/2018/02/Levi_the_cleaner.jpg">
+  <img align="right" alt="Jeiv-pic" height="150" style="border-radius:px;" src="https://switch-brasil.com/wp-content/uploads/2018/02/Levi_the_cleaner.jpg">
 </div>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jdenzel.png" alt="Your Image Badge" />
   
   ## Detailed information
 - Name: Jeivison Santos
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 - Stack: Android - Java - Kotlin
 - University: Studying Analysis and Systems Development
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Jdenzel.png" alt="Your Image Badge" />
+
 
 
 <div>  
