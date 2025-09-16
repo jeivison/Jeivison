@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 ## Hello, my name is Jeivison Santos! 😄
 
+<div align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Jdenzel.png" alt="Your Image Badge" />
+</div>
 
 
 <div align="center">
