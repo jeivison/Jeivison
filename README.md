@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello, my name is Jeivison Santos! 😄
-<div>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/Jdenzel.png" alt="Your Image Badge" />
-</div>
+
 
 <div align="center">
   <a href="https://github.com/jeivison">
