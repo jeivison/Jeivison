@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 - Living in: São Paulo, Brazil
 - Stack: Android - Java - Kotlin
 - University: Studying Analysis and Systems Development
-  
+
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5537839" style='border:none;'></iframe>
+
 <div>  
    <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
