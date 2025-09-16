@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello, my name is Jeivison Santos! 😄
-<div align="left">
+<div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Jdenzel.png" alt="Your Image Badge" />
 </div>
 
