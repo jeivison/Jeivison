@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello, my name is Jeivison Santos! 😄
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jdenzel.png" alt="Your Image Badge" />
+
 <div align="center">
   <a href="https://github.com/jeivison">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeivison&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -22,17 +25,16 @@ Here are some ideas to get you started:
   <img align="center" alt="Jeiv-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Jeiv-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Jeiv-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Jeiv-pic" height="150" style="border-radius:px;" src="https://switch-brasil.com/wp-content/uploads/2018/02/Levi_the_cleaner.jpg">
 </div>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Jdenzel.png" alt="Your Image Badge" />
+
   
   ## Detailed information
 - Name: Jeivison Santos
-- Age: 26
+- Age: 29
 - Living in: São Paulo, Brazil
-- Stack: Android - Java - Kotlin
-- University: Studying Analysis and Systems Development
+- Stack: soc analyst - Jr Penetration Tester
+- Studying: Cybersecurity
 
 
 
