@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello, my name is Jeivison Santos! 😄
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jdenzel.png" alt="Your Image Badge" />
+</div>
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Jdenzel.png" alt="Your Image Badge" />
   <a href="https://github.com/jeivison">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeivison&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeivison&layout=compact&langs_count=7&theme=merko"/>
 </div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeiv-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Jeiv-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
